@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+table{
+    width: 90%;
+    margin:10px;
+    padding-left: 70px;
+}
+tr{
+    font-size: 16px;
+}
+.img{
+    width: 50%px;
+    color: rgb(146,144,144);
+}
+.tdh1{
+    width: 50%px;
+    font-style: italic;
+    font-weight: 500;
+}
+td .tdh1 :hover{
+    background-color: rgb(255,0,157);
+}
+.tdh2{
+    text-align: end;
+    font-style: italic;
+    font-weight: 200;
+}
+.hr3{
+    margin: 10px;
+}
+.hr1{
+    margin: 10px;
+}
+.hr4{
+    width: 15px;
+    margin-right: 5px;
+
+}
+.hr5{
+    width: 70px;
+    margin-right: 5px;
+}
+h3{
+    text-align: center;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+    font-weight: 100;
+    font-family: 'Oswald', sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 1px;
+
+    
+}
+.ph1{
+    background-color: black; width: 100px; height:30px; padding: 10px;
+    color: white;
+    border-radius: 5px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-family:normal;
+    font-size: x-large;
+}
+.tbl12{
+    width: 300px;
+}
+div{
+    background-color: rgba(233,233,233,0.404);
+    border: 1px;
+    color: rgba(233,233,233,0.253);
+    height: 40px;
+}
+span{
+    cursor: pointer;
+}
+span:hover{
+    color: orange;
+}
+.searching{
+    width: 20px;
+    padding: 5px;
+
+
+}
+.testing{
+    color: black;
+    background-color: white;
+}
+.phara1{
+    
+    font-weight: bold;
+}
+
+
